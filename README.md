@@ -1,0 +1,1 @@
+# Scrap-Codeforces-Data-from-rating-table

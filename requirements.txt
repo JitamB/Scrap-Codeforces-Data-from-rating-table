@@ -1,5 +1,20 @@
-NumPy 
-Pandas
-Requests
-BeatifulSoup
-zenrows for API
+# Python Package Installation
+
+Here are the commands to install some commonly used Python libraries:
+
+## 📦 Installation Commands
+
+```bash
+# NumPy
+pip install numpy
+
+# Pandas
+pip install pandas
+
+# Requests
+pip install requests
+
+# BeautifulSoup
+pip install beautifulsoup4
+
+ZenRows (for API interaction)

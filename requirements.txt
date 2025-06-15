@@ -1,20 +1,31 @@
-# Python Package Installation
+==============================
+ Python Package Installation
+==============================
 
-Here are the commands to install some commonly used Python libraries:
+Installation Commands:
+----------------------
 
-## 📦 Installation Commands
+NumPy:
+    pip install numpy
 
-```bash
-# NumPy
-pip install numpy
+Pandas:
+    pip install pandas
 
-# Pandas
-pip install pandas
+Requests:
+    pip install requests
 
-# Requests
-pip install requests
+BeautifulSoup:
+    pip install beautifulsoup4
 
-# BeautifulSoup
-pip install beautifulsoup4
 
-ZenRows (for API interaction)
+----------------------
+
+Package Descriptions:
+----------------------
+
+NumPy        - Numerical operations and array handling.
+Pandas       - Data manipulation and analysis.
+Requests     - HTTP request handling.
+BeautifulSoup- HTML parsing and web scraping.
+
+==============================

@@ -1,0 +1,5 @@
+NumPy 
+Pandas
+Requests
+BeatifulSoup
+zenrows for API
